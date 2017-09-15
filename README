@@ -1,0 +1,9 @@
+dynamips emulates Cisco routers on a traditional PC. You can use it to
+create labs. It uses real Cisco IOS Images, which are not included in
+this  package.
+
+Of course, this emulator cannot replace a real router.  Instead it is
+a complementary tool to real labs for administrators of Cisco networks
+or people wanting to pass their CCNA/CCNP/CCIE exams.
+
+dynamips is generally used together with gns3.

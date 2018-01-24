@@ -1,0 +1,8 @@
+PRGNAM="pandoc"
+VERSION="2.1.1"
+HOMEPAGE="https://pandoc.org/"
+DOWNLOAD_x86_64="https://github.com/jgm/pandoc/releases/download/2.1.1/pandoc-2.1.1-linux.tar.gz"
+MD5SUM_x86_64="d862915941edbae31a5657a228fc75fa"
+REQUIRES="%README%"
+MAINTAINER="Ricardo J. Jesus"
+EMAIL="rj (dot) bcjesus (at) gmail.com"

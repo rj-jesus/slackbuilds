@@ -1,0 +1,10 @@
+https://slackbuilds.org/templates/README
+https://slackbuilds.org/templates/autotools-template.SlackBuild
+https://slackbuilds.org/templates/cmake-template.SlackBuild
+https://slackbuilds.org/templates/doinst.sh
+https://slackbuilds.org/templates/haskell-template.SlackBuild
+https://slackbuilds.org/templates/perl-template.SlackBuild
+https://slackbuilds.org/templates/python-template.SlackBuild
+https://slackbuilds.org/templates/rubygem-template.SlackBuild
+https://slackbuilds.org/templates/slack-desc
+https://slackbuilds.org/templates/template.info
